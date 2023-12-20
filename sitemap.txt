@@ -1,2 +1,2 @@
-http://bepatient.github.io/2023/12/19/hello-world/
-http://bepatient.github.io/
+https://kriscaoj.github.io/2023/12/19/hello-world/
+https://kriscaoj.github.io/

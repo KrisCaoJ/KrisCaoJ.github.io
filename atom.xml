@@ -3,11 +3,11 @@
   <title>知识欲爆棚小曹的学习之路</title>
   
   <subtitle>记录学习生活</subtitle>
-  <link href="http://bepatient.github.io/atom.xml" rel="self"/>
+  <link href="https://kriscaoj.github.io/atom.xml" rel="self"/>
   
-  <link href="http://bepatient.github.io/"/>
+  <link href="https://kriscaoj.github.io/"/>
   <updated>2023-12-19T09:42:33.230Z</updated>
-  <id>http://bepatient.github.io/</id>
+  <id>https://kriscaoj.github.io/</id>
   
   <author>
     <name>Kris Cao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://bepatient.github.io/2023/12/19/hello-world/"/>
-    <id>http://bepatient.github.io/2023/12/19/hello-world/</id>
+    <link href="https://kriscaoj.github.io/2023/12/19/hello-world/"/>
+    <id>https://kriscaoj.github.io/2023/12/19/hello-world/</id>
     <published>2023-12-19T09:42:33.230Z</published>
     <updated>2023-12-19T09:42:33.230Z</updated>
     
