@@ -6,7 +6,7 @@
   <link href="https://kriscaoj.github.io/atom.xml" rel="self"/>
   
   <link href="https://kriscaoj.github.io/"/>
-  <updated>2023-12-19T09:42:33.230Z</updated>
+  <updated>2023-12-20T08:45:46.029Z</updated>
   <id>https://kriscaoj.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一节 资本市场概述</title>
+    <link href="https://kriscaoj.github.io/2023/12/20/%E7%AC%AC%E4%B8%80%E8%8A%82-s%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%A6%82%E8%BF%B0/"/>
+    <id>https://kriscaoj.github.io/2023/12/20/%E7%AC%AC%E4%B8%80%E8%8A%82-s%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%A6%82%E8%BF%B0/</id>
+    <published>2023-12-20T07:28:25.000Z</published>
+    <updated>2023-12-20T08:45:46.029Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><h2 id="一、资本市场的定义"><a href="#一、资本市场的定义" class="headerlink" title="一、资本市场的定义"></a>一、资本市场的定义</h2><ol><li><p>资本市场（又称长期资金市场）：指以期限在<font color='orange'>1年以上</font>的金融工具为媒介进行<font color='orange'>长期性</font>资金融通交易活动的场所</p></li><li><p>资本市场的分类</p><ol><li>广义资本市场：银行中长期信贷市场、有价证券市场（包括中长期债券市场和股票市场）</li><li>狭义资本市场：专指发行和流通股票、债券、基金等有价证券的市场</li></ol></li><li><p>资本市场的特点：</p><ol><li><p>交易工具的期限长</p><!--例如，股票没有到期日，为永久性证券，股票只可以转让、售卖，不能退股--></li><li><p>筹资目的是满足投资性资金需要</p><!--筹集的长期资金主要用于补充固定资本，扩大生产能力，如开办新企业、更新改造等--></li><li><p>筹资和交易的规模大</p></li><li><p>证券投资的收益具有收益的不确定性</p></li></ol></li></ol><h2 id="二、资本市场的运作机制和运行原则"><a href="#二、资本市场的运作机制和运行原则" class="headerlink" title="二、资本市场的运作机制和运行原则"></a>二、资本市场的运作机制和运行原则</h2><ol><li><p>主要运作机制</p><p><strong>资本定价机制</strong></p><p>（1） 估值定价：利用市场力量和各种方法对交易标的进行价值评估而确定价格</p><p>（2） 均衡定价：一方面取决于所有投资者对未来收益的预期，另一方面取决于投资者的风险偏好（二者由资本资产定价模型 CAPM 刻画）</p><p>​<!-- CAPM 补充--></p><p>​<!--CAPM认为一个资产的预期收益率与量该资产风险的一个尺度B值之间存在正相关关系--></p><p>（3）套利定价</p><p><strong>优胜劣汰机制</strong></p><p>​一方面在资本竞争下资本流动由差向好，完成资本、技术、人才的有效配置；另一方面由于资本竞争会使得资本更加优质</p></li><li><p>运行原则</p><ol><li>风险收益相匹配：高风险高收益</li><li>三公原则：信息公开、交易公平、规则公平</li><li>合法与“三禁”：禁止采取欺诈、内幕交易和操纵证券市场的行为</li><li>自愿、有偿与诚信原则</li></ol></li></ol><h2 id="三、资本市场的功能"><a href="#三、资本市场的功能" class="headerlink" title="三、资本市场的功能"></a>三、资本市场的功能</h2><p>​资金聚集功能、价格发现功能、风险管理功能、并购重组功能、促进产业升级功能</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h2 id=&quot;一、资本市场的定义&quot;&gt;&lt;a href=&quot;#一、资本市场的定义&quot; class=&quot;headerlink&quot; title=&quot;一、资本市场的定义&quot;&gt;&lt;/a&gt;一、资本市场的定义&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;资本市场（又称长期资金市场）：指以期限在</summary>
+      
+    
+    
+    
+    <category term="金融类" scheme="https://kriscaoj.github.io/categories/%E9%87%91%E8%9E%8D%E7%B1%BB/"/>
+    
+    <category term="金融学" scheme="https://kriscaoj.github.io/categories/%E9%87%91%E8%9E%8D%E7%B1%BB/%E9%87%91%E8%9E%8D%E5%AD%A6/"/>
+    
+    <category term="第9章 资本市场" scheme="https://kriscaoj.github.io/categories/%E9%87%91%E8%9E%8D%E7%B1%BB/%E9%87%91%E8%9E%8D%E5%AD%A6/%E7%AC%AC9%E7%AB%A0-%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA/"/>
+    
+    
+    <category term="金融" scheme="https://kriscaoj.github.io/tags/%E9%87%91%E8%9E%8D/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
