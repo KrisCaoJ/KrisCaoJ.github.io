@@ -14,11 +14,11 @@ menu:
   标签: /tags/ || fas fa-tags
   #Categories: /categories/ || fas fa-folder-open
   分类||fas fa-list:
-   金融: /financial/ || fas fa-financial
-   摄影: /photograph/ || fas fa-photograph
-   编程: /programming/ || fas fa-programming
-   PS: /photoshop/ || fas fa-photoshop
-   Lt: /lightroom/ || fas fa-lightroom
+   金融: /financial/ || iconfont icon-jinrong
+   摄影: /photograph/ || iconfont icon-sheying
+   编程: /programming/ || iconfont icon-biancheng
+   PS: /photoshop/ || iconfont icon-Adobe-Photoshop
+   Lt: /lightroom/ || iconfont icon-Adobe-Lightroom
 
   Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
@@ -923,6 +923,7 @@ css_prefix: true
 inject:
   head:
     - <link rel="stylesheet" href="/css/color.css">
+    - <link rel="stylesheet" href="/css/font.css">
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
     # - <script src="xxxx"></script>

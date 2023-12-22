@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1703237065812') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sheying:before {
+  content: "\e633";
+}
+
+.icon-jinrong:before {
+  content: "\e642";
+}
+
+.icon-biancheng-01:before {
+  content: "\e678";
+}
+
+.icon-Adobe-Lightroom:before {
+  content: "\e740";
+}
+
+.icon-Adobe-Photoshop:before {
+  content: "\e741";
+}
+
