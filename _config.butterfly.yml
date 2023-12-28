@@ -16,8 +16,8 @@ menu:
   分类||fas fa-list:
    金融: /financial/ || iconfont icon-jinrong
    摄影: /photograph/ || iconfont icon-sheying
-   编程: /programming/ || iconfont icon-biancheng
-   PS: /photoshop/ || iconfont icon-Adobe-Photoshop
+   编程: /programming/ || iconfont icon-shuju
+   PS: /photoshop/ || iconfont icon-vuesax-linear-photoshop
    Lt: /lightroom/ || iconfont icon-Adobe-Lightroom
 
   Link: /link/ || fas fa-link
