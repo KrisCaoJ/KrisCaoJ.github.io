@@ -14,11 +14,12 @@ menu:
   标签: /tags/ || fas fa-tags
   #Categories: /categories/ || fas fa-folder-open
   分类||fas fa-list:
-   金融: /financial/ || iconfont icon-jinrong
-   摄影: /photograph/ || iconfont icon-sheying
-   编程: /programming/ || iconfont icon-shuju
-   PS: /photoshop/ || iconfont icon-vuesax-linear-photoshop
-   Lt: /lightroom/ || iconfont icon-Adobe-Lightroom
+   金融: /tags/金融/ || iconfont icon-jinrong
+   摄影: /tags/摄影/ || iconfont icon-sheying
+   编程: /tags/编程/ || iconfont icon-shuju
+   PS: /tags/PS/ || iconfont icon-vuesax-linear-photoshop
+   LR: /tags/LR/ || iconfont icon-Adobe-Lightroom
+   考试: /tags/考试
 
   Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
