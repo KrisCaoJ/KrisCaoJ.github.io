@@ -105,7 +105,7 @@ deploy:
   repo: https://github.com/KrisCaoJ/KrisCaoJ.github.io.git
   branch: main
 search:
-  path: ./node_modules/hexo-generator-search/demo_output/search.xml
+  path: search.xml
   field: post
   content: true
-  template: ./node_modules/hexo-generator-search/templates/search.xml
+  format: html
