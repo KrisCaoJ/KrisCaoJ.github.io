@@ -14,7 +14,7 @@ tags: "PS"
 
 界面如图所示
 
-![image-20240107104330382](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107104330382.png)
+![image-20240107104330382](./Photoshop基础/image-20240107104330382.png)
 
 1. 菜单栏
 
@@ -28,7 +28,7 @@ tags: "PS"
 
 4. 工作信息栏
 
-   ![image-20240107182751912](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107182751912.png)
+   ![image-20240107182751912](./Photoshop基础/image-20240107182751912.png)
 
    点击右侧">",可以选择显示相关工作信息
 
@@ -58,13 +58,13 @@ tags: "PS"
 
 #### 	(一)如何修改图像大小
 
-​			![image-20240107190734453](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107190734453.png)
+​			![image-20240107190734453](./Photoshop基础/image-20240107190734453.png)
 
 #### （二）打开文件
 
 ​			  在打开文件时，可以选择图像序列，<font color="red">使用图像序列时文件名必须是有规律的</font>
 
-![image-20240107191431965](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107191431965.png)
+![image-20240107191431965](./Photoshop基础/image-20240107191431965.png)
 
 ​			之后会弹出对话框设置帧速率，之后点击菜单栏-窗口-时间轴，即可快速查看多个图片
 
@@ -74,15 +74,15 @@ tags: "PS"
 
       PS在工作时会产生临时文件，内存无法临时存放，故会存放在指定硬盘中
 
-      ![image-20240107225729882](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107225729882.png)
+      ![image-20240107225729882](./Photoshop基础/image-20240107225729882.png)
 
    2. 历史记录
 
       用来保存历史操作次数，方便回退
 
-      ![image-20240107230018047](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107230018047.png)、
+      ![image-20240107230018047](./Photoshop基础/image-20240107230018047.png)
 
    3. 自动保存
 
-      ![image-20240107230132171](C:\Users\18803\AppData\Roaming\Typora\typora-user-images\image-20240107230132171.png)
+      ![image-20240107230132171](./Photoshop基础/image-20240107230132171.png)
 
