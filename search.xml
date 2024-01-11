@@ -60,26 +60,26 @@
 </ol>
 <h2 id="三、基础学习">三、基础学习</h2>
 <h4 id="一-如何修改图像大小">(一)如何修改图像大小</h4>
-<p>​			<img src="/.io//image-20240107190734453.png" alt="image-20240107190734453"></p>
+<p>​			<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107190734453.png" class title="image-20240107190734453"></p>
 <h4 id="（二）打开文件">（二）打开文件</h4>
 <p>​			  在打开文件时，可以选择图像序列，<font color="red">使用图像序列时文件名必须是有规律的</font></p>
-<p><img src="/.io//image-20240107191431965.png" alt="image-20240107191431965"></p>
+<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107191431965.png" class title="image-20240107191431965">
 <p>​			之后会弹出对话框设置帧速率，之后点击菜单栏-窗口-时间轴，即可快速查看多个图片</p>
 <h4 id="（三）性能配置">（三）性能配置</h4>
 <ol>
 <li class="lvl-6">
 <p>暂存盘</p>
 <p>PS在工作时会产生临时文件，内存无法临时存放，故会存放在指定硬盘中</p>
-<p><img src="/.io//image-20240107225729882.png" alt="image-20240107225729882"></p>
+<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107225729882.png" class title="image-20240107225729882">
 </li>
 <li class="lvl-6">
 <p>历史记录</p>
 <p>用来保存历史操作次数，方便回退</p>
-<p><img src="/.io//image-20240107230018047.png" alt="image-20240107230018047"></p>
+<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107230018047.png" class title="image-20240107230018047">
 </li>
 <li class="lvl-6">
 <p>自动保存</p>
-<p><img src="/.io//image-20240107230132171.png" alt="image-20240107230132171"></p>
+<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107230132171.png" class title="image-20240107230132171">
 </li>
 </ol>
 ]]></content>
@@ -816,52 +816,6 @@
       </tags>
   </entry>
   <entry>
-    <title>第四节 资本市场的投资分析</title>
-    <url>/2023/12/21/%E7%AC%AC%E5%9B%9B%E8%8A%82-%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E7%9A%84%E6%8A%95%E8%B5%84%E5%88%86%E6%9E%90/</url>
-    <content><![CDATA[<h2 id="一、证券投资的基本面分析">一、证券投资的基本面分析</h2>
-<p>基本面分析是对影响证券市场的供求关系的宏观经济指标、经济运行周期态势、宏观经济政策、行业和产业生命周期以及上市公司本身的状况进行分析</p>
-<ol>
-<li class="lvl-3">
-<p>宏观经济周期性运行与证券行市</p>
-<ol>
-<li class="lvl-6">宏观经济周期一般为萧条、复苏、繁荣、衰退</li>
-<li class="lvl-6">证券价格的变动大体上与宏观经济周期一致，但证券市场走势比经济周期提前约1个月到半年</li>
-</ol>
-</li>
-<li class="lvl-3">
-<p>宏观经济政策与证券行市</p>
-<ol>
-<li class="lvl-6">
-<p>货币政策</p>
-<p>货币供给量的改变、利率调整、中央银行公开市场操作</p>
-</li>
-<li class="lvl-6">
-<p>财政政策</p>
-<p>扩张性政策、扩大政府购买水平、提高政府转移支付水平都会使得（部分）居民收入增加，进而促进证券价格上涨；而税率的提高会抑制证券价格上涨。</p>
-</li>
-<li class="lvl-6">
-<p>汇率政策</p>
-</li>
-</ol>
-</li>
-<li class="lvl-3">
-<p>产业生命周期与证券行市</p>
-</li>
-<li class="lvl-3">
-<p>公司状况与证券行市</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>金融类</category>
-        <category>金融学</category>
-        <category>第9章 资本市场</category>
-      </categories>
-      <tags>
-        <tag>金融</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第二节 衍生工具市场与交易</title>
     <url>/2024/01/08/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BA%A4%E6%98%93/</url>
     <content><![CDATA[<h1>一、远期合约、期货交易与期货市场</h1>
@@ -888,11 +842,8 @@
 <p>概念：合约的买卖双方约定将未来某一时间点作为利息起算日，约定某期限的协议利率、市场参照利率和计息名义本金数额；在利息起算日，双方按规定的协议利率、期限和名义本金额，由一方向另一方支付<font color="orange">协议利率与参照利率之间的利息差额的贴现值</font>。</p>
 </li>
 <li class="lvl-5">
-<p>利差公式：<br>
-$$<br>
-A=\frac{P*(R_m-R_s)<em>\frac{t}{360}}{1+R_m</em>\frac{t}{360}}\<br>
-其中R_m表示参照利率，R_s表示协议利率，t为利息天数，P为协议规定计算利差的名义本金额<br>
-$$</p>
+<p>利差公式：</p>
+<img src="/.io//01/08/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BA%A4%E6%98%93/image-20240111142517193.png" class title="image-20240111142517193">
 </li>
 <li class="lvl-5">
 <p>远期利率协议的价格是指从利息起算日开始的一定期限的协议利率。以8月29日为例</p>
@@ -977,12 +928,99 @@ $$</p>
 </li>
 </ul>
 </li>
+<li class="lvl-2">
+<p>期货交易的过程</p>
+<p>期货交易的全过程可以概括为建仓，持仓，平仓或实物交割</p>
+<ol>
+<li class="lvl-5">
+<p>建仓（开仓）</p>
+<p>是指交易者新买入或新卖出一定2 平仓的分类数量的期货合约</p>
+</li>
+<li class="lvl-5">
+<p>持仓</p>
+<p>建仓之后尚没有平仓的合约，叫<font color="orange">未平仓合约或者未平合头寸</font>，也叫持仓</p>
+</li>
+<li class="lvl-5">
+<p>平仓</p>
+<p>买回已卖出合约，或卖出己买入合约的行为就叫平仓。</p>
+</li>
+</ol>
+</li>
 </ul>
+<h2 id="二、期权交易与期权市场">二、期权交易与期权市场</h2>
+<h4 id="（一）期权交易">（一）期权交易</h4>
+<ol>
+<li class="lvl-3">
+<p>期权交易合约的主要因素</p>
+<ol>
+<li class="lvl-6"><strong>买家或投资者（<font color="grey">Taker</font>）</strong>：是指购买期权的一方，具有期权载明的权利</li>
+<li class="lvl-6"><strong>沽家或卖方（<font color="grey">Grantor</font>）</strong>: 是指出售权利的一方，或是期权的签发人</li>
+<li class="lvl-6"><strong>权价或期权费（<font color="grey">Premium</font>）</strong>: 是指买家向卖家支付的购买权利的费用，也称<font color="red"><strong>保险费</strong></font>。
+<ul class="lvl-4">
+<li class="lvl-8">期权费有着重要的意义，一是期权买家可能遭受的最大损失程度控制在期权费之内，二是期权卖家出售一项期权可立即得到一笔期权费收入。买方的损失或卖方的盈利均以期权费为准，不会超过</li>
+</ul>
+</li>
+<li class="lvl-6"><strong>成交价</strong>：是指买家与卖家商定的远期商品交易的价格，也称基<font color="red">本价或合同价</font></li>
+<li class="lvl-6"><strong>通知日（<font color="grey">declaration date</font>）</strong>：是指期权买家要求履行商品合同的交货或提运时，必须在预先确定的交货日或提运日前的某一天通知卖家，这一天即为“知日”或“声明日”</li>
+<li class="lvl-6"><strong>到期日（<font color="grey">Expiration</font>）</strong>：是指预先确定的交货日或提运日，这一天一个已预先声明的期权合约必须履行，它是期权合同有效期的终点。这天也称“履行日”</li>
+</ol>
+</li>
+<li class="lvl-3">
+<p>期权合约<br>
+1.</p>
+</li>
+</ol>
 ]]></content>
       <categories>
         <category>金融类</category>
         <category>金融学</category>
         <category>第10章 衍生工具市场</category>
+      </categories>
+      <tags>
+        <tag>金融</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第四节 资本市场的投资分析</title>
+    <url>/2023/12/21/%E7%AC%AC%E5%9B%9B%E8%8A%82-%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E7%9A%84%E6%8A%95%E8%B5%84%E5%88%86%E6%9E%90/</url>
+    <content><![CDATA[<h2 id="一、证券投资的基本面分析">一、证券投资的基本面分析</h2>
+<p>基本面分析是对影响证券市场的供求关系的宏观经济指标、经济运行周期态势、宏观经济政策、行业和产业生命周期以及上市公司本身的状况进行分析</p>
+<ol>
+<li class="lvl-3">
+<p>宏观经济周期性运行与证券行市</p>
+<ol>
+<li class="lvl-6">宏观经济周期一般为萧条、复苏、繁荣、衰退</li>
+<li class="lvl-6">证券价格的变动大体上与宏观经济周期一致，但证券市场走势比经济周期提前约1个月到半年</li>
+</ol>
+</li>
+<li class="lvl-3">
+<p>宏观经济政策与证券行市</p>
+<ol>
+<li class="lvl-6">
+<p>货币政策</p>
+<p>货币供给量的改变、利率调整、中央银行公开市场操作</p>
+</li>
+<li class="lvl-6">
+<p>财政政策</p>
+<p>扩张性政策、扩大政府购买水平、提高政府转移支付水平都会使得（部分）居民收入增加，进而促进证券价格上涨；而税率的提高会抑制证券价格上涨。</p>
+</li>
+<li class="lvl-6">
+<p>汇率政策</p>
+</li>
+</ol>
+</li>
+<li class="lvl-3">
+<p>产业生命周期与证券行市</p>
+</li>
+<li class="lvl-3">
+<p>公司状况与证券行市</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>金融类</category>
+        <category>金融学</category>
+        <category>第9章 资本市场</category>
       </categories>
       <tags>
         <tag>金融</tag>
