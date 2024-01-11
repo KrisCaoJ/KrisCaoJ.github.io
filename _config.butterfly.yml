@@ -357,14 +357,6 @@ mathjax:
   enable: true
   per_page: true
 
-kramed:
-  gfm: true
-  pedantic: false
-  sanitize: false
-  tables: true
-  breaks: true
-  smartLists: true
-  smartypants: true
 
 # KaTeX
 katex:

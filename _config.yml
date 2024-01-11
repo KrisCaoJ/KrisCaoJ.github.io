@@ -152,3 +152,12 @@ markdown:
     permalinkSymbol: "¶"
     case: 0
     separator: "-"
+
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
