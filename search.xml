@@ -5,7 +5,7 @@
     <url>/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/</url>
     <content><![CDATA[<h2 id="一、主界面构成">一、主界面构成</h2>
 <p>界面如图所示</p>
-<p><img src="/.io//image-20240107104330382.png" alt="image-20240107104330382"></p>
+<p><img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107104330382.png" alt="image-20240107104330382"></p>
 <ol>
 <li class="lvl-3">
 <p>菜单栏</p>
@@ -22,7 +22,7 @@
 </li>
 <li class="lvl-3">
 <p>工作信息栏</p>
-<p><img src="/.io//image-20240107182751912.png" alt="image-20240107182751912"></p>
+<p><img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107182751912.png" alt="image-20240107182751912"></p>
 <p>点击右侧&quot;&gt;&quot;,可以选择显示相关工作信息</p>
 <p>在工作信息栏点击鼠标左键，可以显示详细信息</p>
 </li>
@@ -40,6 +40,8 @@
 <li class="lvl-6">Ctrl+Alt+S --》快捷存储</li>
 <li class="lvl-6">Ctrl+K --》快速打开首选项</li>
 <li class="lvl-6">Ctrl+Alt+ --》快速打开快捷键设置</li>
+<li class="lvl-6">Ctrl+Shift+N --》新建图层</li>
+<li class="lvl-7">Ctrl+‘+’/‘-’ --》放大/缩小图像</li>
 </ol>
 </li>
 <li class="lvl-3">
@@ -60,26 +62,85 @@
 </ol>
 <h2 id="三、基础学习">三、基础学习</h2>
 <h4 id="一-如何修改图像大小">(一)如何修改图像大小</h4>
-<p>​			<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107190734453.png" class title="image-20240107190734453"></p>
+<p>​			<img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107190734453.png" alt="image-20240107190734453"></p>
 <h4 id="（二）打开文件">（二）打开文件</h4>
 <p>​			  在打开文件时，可以选择图像序列，<font color="red">使用图像序列时文件名必须是有规律的</font></p>
-<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107191431965.png" class title="image-20240107191431965">
+<p><img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107191431965.png" alt="image-20240107191431965"></p>
 <p>​			之后会弹出对话框设置帧速率，之后点击菜单栏-窗口-时间轴，即可快速查看多个图片</p>
 <h4 id="（三）性能配置">（三）性能配置</h4>
 <ol>
 <li class="lvl-6">
 <p>暂存盘</p>
 <p>PS在工作时会产生临时文件，内存无法临时存放，故会存放在指定硬盘中</p>
-<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107225729882.png" class title="image-20240107225729882">
+<p><img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107225729882.png" alt="image-20240107225729882"></p>
 </li>
 <li class="lvl-6">
 <p>历史记录</p>
 <p>用来保存历史操作次数，方便回退</p>
-<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107230018047.png" class title="image-20240107230018047">
+<p><img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107230018047.png" alt="image-20240107230018047"></p>
 </li>
 <li class="lvl-6">
 <p>自动保存</p>
-<img src="/.io//12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107230132171.png" class title="image-20240107230132171">
+<p><img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240107230132171.png" alt="image-20240107230132171"></p>
+</li>
+</ol>
+<h4 id="（四）图层">（四）图层</h4>
+<img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240111221649075.png" class title="image-20240111221649075">
+<ol>
+<li class="lvl-3">
+<p>类型：作用是通过图层的不同性质进行过滤</p>
+</li>
+<li class="lvl-3">
+<p>正常部分：图层混合模式选线以及图层透明度设置</p>
+</li>
+<li class="lvl-3">
+<p>锁定：有四种锁定方式</p>
+</li>
+<li class="lvl-3">
+<p>图层类型：</p>
+<ul class="lvl-2">
+<li class="lvl-5">
+<p>普通图层</p>
+<ul class="lvl-4">
+<li class="lvl-7">
+<img src="https://kriscaoj.github.io/2023/12/20/Photoshop%E5%9F%BA%E7%A1%80/12/20/Photoshop%E5%9F%BA%E7%A1%80/image-20240111222209915.png" class title="image-20240111222209915">
+<p>新建图层可以点击图层面板的“新建”</p>
+<p>按住Alt点击“新建”会弹出设置框</p>
+<p>复制图层：按住Alt拖拽图层即可</p>
+</li>
+</ul>
+</li>
+<li class="lvl-5">
+<p>背景图层</p>
+</li>
+<li class="lvl-5">
+<p>智能对象图层</p>
+</li>
+<li class="lvl-5">
+<p>调整图层</p>
+</li>
+<li class="lvl-5">
+<p>填充图层</p>
+</li>
+<li class="lvl-5">
+<p>视频图层</p>
+</li>
+<li class="lvl-5">
+<p>矢量图层</p>
+</li>
+<li class="lvl-5">
+<p>文字图层</p>
+</li>
+</ul>
+</li>
+</ol>
+<h4 id="（五）放大缩小图片">（五）放大缩小图片</h4>
+<ol>
+<li class="lvl-3">
+<p>按住空格键，鼠标就会变成抓手工具</p>
+</li>
+<li class="lvl-3">
+<p>窗口-》导航器面板 控制图像大小</p>
 </li>
 </ol>
 ]]></content>
@@ -88,77 +149,6 @@
       </categories>
       <tags>
         <tag>PS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一节 资本市场概述</title>
-    <url>/2023/12/20/%E7%AC%AC%E4%B8%80%E8%8A%82-%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%A6%82%E8%BF%B0/</url>
-    <content><![CDATA[<p>[TOC]</p>
-<h2 id="一、资本市场的定义">一、资本市场的定义</h2>
-<ol>
-<li class="lvl-3">
-<p>资本市场（又称长期资金市场）：指以期限在<font color="orange">1年以上</font>的金融工具为媒介进行<font color="orange">长期性</font>资金融通交易活动的场所</p>
-</li>
-<li class="lvl-3">
-<p>资本市场的分类</p>
-<ol>
-<li class="lvl-6">广义资本市场：银行中长期信贷市场、有价证券市场（包括中长期债券市场和股票市场）</li>
-<li class="lvl-6">狭义资本市场：专指发行和流通股票、债券、基金等有价证券的市场</li>
-</ol>
-</li>
-<li class="lvl-3">
-<p>资本市场的特点：</p>
-<ol>
-<li class="lvl-6">
-<p>交易工具的期限长</p>
-<p>例如，股票没有到期日，为永久性证券，股票只可以转让、售卖，不能退股</p>
-</li>
-<li class="lvl-6">
-<p>筹资目的是满足投资性资金需要</p>
-<p>筹集的长期资金主要用于补充固定资本，扩大生产能力，如开办新企业、更新改造等</p>
-</li>
-<li class="lvl-6">
-<p>筹资和交易的规模大</p>
-</li>
-<li class="lvl-6">
-<p>证券投资的收益具有收益的不确定性</p>
-</li>
-</ol>
-</li>
-</ol>
-<h2 id="二、资本市场的运作机制和运行原则">二、资本市场的运作机制和运行原则</h2>
-<ol>
-<li class="lvl-3">
-<p>主要运作机制</p>
-<p><strong>资本定价机制</strong></p>
-<p>（1） 估值定价：利用市场力量和各种方法对交易标的进行价值评估而确定价格</p>
-<p>（2） 均衡定价：一方面取决于所有投资者对未来收益的预期，另一方面取决于投资者的风险偏好（二者由资本资产定价模型 CAPM 刻画）</p>
-<p>​			CAPM 补充</p>
-<p>​			CAPM认为一个资产的预期收益率与量该资产风险的一个尺度β值之间存在正相关关系</p>
-<p>（3）套利定价</p>
-<p><strong>优胜劣汰机制</strong></p>
-<p>​	一方面在资本竞争下资本流动由差向好，完成资本、技术、人才的有效配置；另一方面由于资本竞争会使得资本更加优质</p>
-</li>
-<li class="lvl-3">
-<p>运行原则</p>
-<ol>
-<li class="lvl-6">风险收益相匹配：高风险高收益</li>
-<li class="lvl-6">三公原则：信息公开、交易公平、规则公平</li>
-<li class="lvl-6">合法与“三禁”：禁止采取欺诈、内幕交易和操纵证券市场的行为</li>
-<li class="lvl-6">自愿、有偿与诚信原则</li>
-</ol>
-</li>
-</ol>
-<h2 id="三、资本市场的功能">三、资本市场的功能</h2>
-<p>​	资金聚集功能、价格发现功能、风险管理功能、并购重组功能、促进产业升级功能</p>
-]]></content>
-      <categories>
-        <category>金融类</category>
-        <category>金融学</category>
-        <category>第9章 资本市场</category>
-      </categories>
-      <tags>
-        <tag>金融</tag>
       </tags>
   </entry>
   <entry>
@@ -417,6 +407,224 @@
       </tags>
   </entry>
   <entry>
+    <title>第三节 债券市场</title>
+    <url>/2023/12/21/%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA/</url>
+    <content><![CDATA[<h2 id="一、债券">一、债券</h2>
+<ol>
+<li class="lvl-3">
+<p>概念</p>
+<p>债券是政府、金融中介和企业等机构直接向社会筹集资金时发行的一种承诺按一定利率支付利息并约定条件偿还本金的债务凭证。</p>
+</li>
+<li class="lvl-3">
+<p>债券与股票的区别</p>
+<table>
+<thead>
+<tr>
+<th>对比表</th>
+<th style="text-align:center">债券</th>
+<th style="text-align:center">股票</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>期限</td>
+<td style="text-align:center">明确的固定期限</td>
+<td style="text-align:center">永久性（只能转让、售卖，不准退股）</td>
+</tr>
+<tr>
+<td>收益</td>
+<td style="text-align:center">约定利息，具有稳定性</td>
+<td style="text-align:center">收益不确定性高</td>
+</tr>
+<tr>
+<td>偿付顺序</td>
+<td style="text-align:center">债券的优先权先于股票</td>
+<td style="text-align:center">\</td>
+</tr>
+<tr>
+<td>控制权</td>
+<td style="text-align:center">无公司决策权，但公司破产时控制权归债权人所有</td>
+<td style="text-align:center">有决策权</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="lvl-3">
+<p>债券的种类</p>
+<ol>
+<li class="lvl-6">
+<p>政府债券</p>
+<p>按发行主题可以分为中央政府发行的国债、地方政府发行的地方政府债券和政府机构债券</p>
+</li>
+<li class="lvl-6">
+<p>公司债券</p>
+<ol>
+<li class="lvl-9">
+<p>金融债券</p>
+<table>
+<thead>
+<tr>
+<th>金融债券</th>
+<th>政策性银行债券</th>
+<th>商业银行债券</th>
+<th>非银行金融债券</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>主体</td>
+<td>国开银行、中国进出口银行、中国农业发展银行</td>
+<td>商业银行</td>
+<td>保险公司、信托公司、金融租赁公司、财务公司等</td>
+</tr>
+<tr>
+<td>目的</td>
+<td>融资支持大中型基础设施、支柱产业、调整产业结构等</td>
+<td>补充资本金、其他商业目的</td>
+<td>补充资本金</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li class="lvl-9">
+<p>非金融企业债券</p>
+<ol>
+<li class="lvl-12">普通债券：是企业发行的、载明债债权债务关系和相应条件而没有其他选择权的债券</li>
+<li class="lvl-12">可转换公司债券：赋予债券持有人按事先约定的条件和比例，在一定的时间内将债券转换成该公司普通股的选择权。该债券<font color="orange">发行主体是上市公司</font></li>
+<li class="lvl-12">可交换债券：指<font color="orange">上市公司股份的持有者</font>通过抵押其持有的股票给托管机构进而发行的公司债券，该债券的持有人在将来的某个时期内，能按照债券发行时约定的条件用持有的债券换取发债人抵押的上市公司股权</li>
+<li class="lvl-12">分离交易可转债：指债券发行人赋予债券持有人在未来约定的期限内以约定的价格购买其一定数量股权的权利（即认股权证），且认股权证与公司债券相分离，单独在市场上自由流通</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="二、发行、流通市场">二、发行、流通市场</h2>
+<ol>
+<li class="lvl-3">
+<p>发行市场</p>
+<ol>
+<li class="lvl-6">
+<p>发行方式：</p>
+<ul class="lvl-4">
+<li class="lvl-8">
+<p>承销发行</p>
+<p>承销发行是指债券发行人与承销商就债券的发行价格、承销方式等要素进行充分的协商后，再向投资者发行的方式</p>
+</li>
+<li class="lvl-8">
+<p>招标发行</p>
+<p>招标发行是指债券发行人先向各承销商进行招标，再由中标的承销商向投资者发行的方式</p>
+<ol>
+<li class="lvl-11">
+<p>数量招标。发行人明确将要发行债券的<u>发行数量、债券期限、票面利率或价格</u>等要素承销商再根据确定的利率或价格等要素投标自己愿意认购的数量。若发行利率高于(或发行价低于)投资者期望水平，则可能导致投标总量超过债券发行量，最终的成交数量按比例进行分配反之，则可能导致部分甚至全部流标</p>
+</li>
+<li class="lvl-11">
+<p>价格招标。价格招标是指先明确债券<u>发行的总量、债券期限和票面利</u>率等要素，承销再根据自己意愿的发行价格和相应数量进行投标。相比数量招标，价格招标通常可以避免出现标的现象，但发行人面临利息成本可能较高的风险</p>
+</li>
+<li class="lvl-11">
+<p>利差招标。此方式主要用于浮动利率债券的招标，是由发行人明确<u>债券发行数量、期限基准利率</u>确定方式等要素，承销商再对其浮动的利差和相应的数量进行投标，通过招标确定的利差加上基准利率成为债券的执行利率</p>
+</li>
+</ol>
+</li>
+</ul>
+</li>
+<li class="lvl-6">
+<p>流通市场</p>
+<ul class="lvl-4">
+<li class="lvl-8">
+<p>我国交易所债券市场，是在上海证券交易所和深圳证券交易所以非银行金融机构和个人为主体的<font color="cornflowerblue">场内债券市场</font></p>
+</li>
+<li class="lvl-8">
+<p><font color="cornflowerblue">我国债券场外市场是债券二级市场的主要形态</font>，分为银行间债券市场和银行柜台债券市场。银行间债券市场是指依托于中国外汇交易中心暨全国银行间同业拆借中心和中央国债登记结算公司、银行间市场清算所股份有限公司，商业银行、保险公司、证券公司等金融机构进行债券交易的市场。银行柜台债券市场是指银行通过营业网点(含电子银行系统) 与投资人进行债券买卖并办理托管与结算等业务的市场</p>
+</li>
+</ul>
+</li>
+</ol>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>金融类</category>
+        <category>金融学</category>
+        <category>第9章 资本市场</category>
+      </categories>
+      <tags>
+        <tag>金融</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一节 资本市场概述</title>
+    <url>/2023/12/20/%E7%AC%AC%E4%B8%80%E8%8A%82-%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%A6%82%E8%BF%B0/</url>
+    <content><![CDATA[<p>[TOC]</p>
+<h2 id="一、资本市场的定义">一、资本市场的定义</h2>
+<ol>
+<li class="lvl-3">
+<p>资本市场（又称长期资金市场）：指以期限在<font color="orange">1年以上</font>的金融工具为媒介进行<font color="orange">长期性</font>资金融通交易活动的场所</p>
+</li>
+<li class="lvl-3">
+<p>资本市场的分类</p>
+<ol>
+<li class="lvl-6">广义资本市场：银行中长期信贷市场、有价证券市场（包括中长期债券市场和股票市场）</li>
+<li class="lvl-6">狭义资本市场：专指发行和流通股票、债券、基金等有价证券的市场</li>
+</ol>
+</li>
+<li class="lvl-3">
+<p>资本市场的特点：</p>
+<ol>
+<li class="lvl-6">
+<p>交易工具的期限长</p>
+<p>例如，股票没有到期日，为永久性证券，股票只可以转让、售卖，不能退股</p>
+</li>
+<li class="lvl-6">
+<p>筹资目的是满足投资性资金需要</p>
+<p>筹集的长期资金主要用于补充固定资本，扩大生产能力，如开办新企业、更新改造等</p>
+</li>
+<li class="lvl-6">
+<p>筹资和交易的规模大</p>
+</li>
+<li class="lvl-6">
+<p>证券投资的收益具有收益的不确定性</p>
+</li>
+</ol>
+</li>
+</ol>
+<h2 id="二、资本市场的运作机制和运行原则">二、资本市场的运作机制和运行原则</h2>
+<ol>
+<li class="lvl-3">
+<p>主要运作机制</p>
+<p><strong>资本定价机制</strong></p>
+<p>（1） 估值定价：利用市场力量和各种方法对交易标的进行价值评估而确定价格</p>
+<p>（2） 均衡定价：一方面取决于所有投资者对未来收益的预期，另一方面取决于投资者的风险偏好（二者由资本资产定价模型 CAPM 刻画）</p>
+<p>​			CAPM 补充</p>
+<p>​			CAPM认为一个资产的预期收益率与量该资产风险的一个尺度β值之间存在正相关关系</p>
+<p>（3）套利定价</p>
+<p><strong>优胜劣汰机制</strong></p>
+<p>​	一方面在资本竞争下资本流动由差向好，完成资本、技术、人才的有效配置；另一方面由于资本竞争会使得资本更加优质</p>
+</li>
+<li class="lvl-3">
+<p>运行原则</p>
+<ol>
+<li class="lvl-6">风险收益相匹配：高风险高收益</li>
+<li class="lvl-6">三公原则：信息公开、交易公平、规则公平</li>
+<li class="lvl-6">合法与“三禁”：禁止采取欺诈、内幕交易和操纵证券市场的行为</li>
+<li class="lvl-6">自愿、有偿与诚信原则</li>
+</ol>
+</li>
+</ol>
+<h2 id="三、资本市场的功能">三、资本市场的功能</h2>
+<p>​	资金聚集功能、价格发现功能、风险管理功能、并购重组功能、促进产业升级功能</p>
+]]></content>
+      <categories>
+        <category>金融类</category>
+        <category>金融学</category>
+        <category>第9章 资本市场</category>
+      </categories>
+      <tags>
+        <tag>金融</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第二节 股票市场</title>
     <url>/2023/12/21/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA/</url>
     <content><![CDATA[<h2 id="一、股票的概念和种类">一、股票的概念和种类</h2>
@@ -624,7 +832,7 @@
 </ul>
 </li>
 </ol>
-<p><img src="/.io//image-20231225132922959.png" alt="image-20231225132922959"></p>
+<p><img src="https://kriscaoj.github.io/2023/12/21/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA/image-20231225132922959.png" alt="image-20231225132922959"></p>
 <center>图1. 市场关系</center>
 </li>
 </ol>
@@ -634,7 +842,7 @@
 <ol>
 <li class="lvl-9">
 <p>发行流程（准备阶段+发行阶段）</p>
-<p><img src="/.io//image-20231225173946523.png" alt="image-20231225173946523"></p>
+<p><img src="https://kriscaoj.github.io/2023/12/21/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%82%A1%E7%A5%A8%E5%B8%82%E5%9C%BA/image-20231225173946523.png" alt="image-20231225173946523"></p>
 </li>
 <li class="lvl-9">
 <p>交易流程</p>
@@ -645,153 +853,6 @@
 </li>
 </ol>
 <p>​</p>
-]]></content>
-      <categories>
-        <category>金融类</category>
-        <category>金融学</category>
-        <category>第9章 资本市场</category>
-      </categories>
-      <tags>
-        <tag>金融</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第三节 债券市场</title>
-    <url>/2023/12/21/%E7%AC%AC%E4%B8%89%E8%8A%82-%E5%80%BA%E5%88%B8%E5%B8%82%E5%9C%BA/</url>
-    <content><![CDATA[<h2 id="一、债券">一、债券</h2>
-<ol>
-<li class="lvl-3">
-<p>概念</p>
-<p>债券是政府、金融中介和企业等机构直接向社会筹集资金时发行的一种承诺按一定利率支付利息并约定条件偿还本金的债务凭证。</p>
-</li>
-<li class="lvl-3">
-<p>债券与股票的区别</p>
-<table>
-<thead>
-<tr>
-<th>对比表</th>
-<th style="text-align:center">债券</th>
-<th style="text-align:center">股票</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>期限</td>
-<td style="text-align:center">明确的固定期限</td>
-<td style="text-align:center">永久性（只能转让、售卖，不准退股）</td>
-</tr>
-<tr>
-<td>收益</td>
-<td style="text-align:center">约定利息，具有稳定性</td>
-<td style="text-align:center">收益不确定性高</td>
-</tr>
-<tr>
-<td>偿付顺序</td>
-<td style="text-align:center">债券的优先权先于股票</td>
-<td style="text-align:center">\</td>
-</tr>
-<tr>
-<td>控制权</td>
-<td style="text-align:center">无公司决策权，但公司破产时控制权归债权人所有</td>
-<td style="text-align:center">有决策权</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li class="lvl-3">
-<p>债券的种类</p>
-<ol>
-<li class="lvl-6">
-<p>政府债券</p>
-<p>按发行主题可以分为中央政府发行的国债、地方政府发行的地方政府债券和政府机构债券</p>
-</li>
-<li class="lvl-6">
-<p>公司债券</p>
-<ol>
-<li class="lvl-9">
-<p>金融债券</p>
-<table>
-<thead>
-<tr>
-<th>金融债券</th>
-<th>政策性银行债券</th>
-<th>商业银行债券</th>
-<th>非银行金融债券</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>主体</td>
-<td>国开银行、中国进出口银行、中国农业发展银行</td>
-<td>商业银行</td>
-<td>保险公司、信托公司、金融租赁公司、财务公司等</td>
-</tr>
-<tr>
-<td>目的</td>
-<td>融资支持大中型基础设施、支柱产业、调整产业结构等</td>
-<td>补充资本金、其他商业目的</td>
-<td>补充资本金</td>
-</tr>
-</tbody>
-</table>
-</li>
-<li class="lvl-9">
-<p>非金融企业债券</p>
-<ol>
-<li class="lvl-12">普通债券：是企业发行的、载明债债权债务关系和相应条件而没有其他选择权的债券</li>
-<li class="lvl-12">可转换公司债券：赋予债券持有人按事先约定的条件和比例，在一定的时间内将债券转换成该公司普通股的选择权。该债券<font color="orange">发行主体是上市公司</font></li>
-<li class="lvl-12">可交换债券：指<font color="orange">上市公司股份的持有者</font>通过抵押其持有的股票给托管机构进而发行的公司债券，该债券的持有人在将来的某个时期内，能按照债券发行时约定的条件用持有的债券换取发债人抵押的上市公司股权</li>
-<li class="lvl-12">分离交易可转债：指债券发行人赋予债券持有人在未来约定的期限内以约定的价格购买其一定数量股权的权利（即认股权证），且认股权证与公司债券相分离，单独在市场上自由流通</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-</li>
-</ol>
-<h2 id="二、发行、流通市场">二、发行、流通市场</h2>
-<ol>
-<li class="lvl-3">
-<p>发行市场</p>
-<ol>
-<li class="lvl-6">
-<p>发行方式：</p>
-<ul class="lvl-4">
-<li class="lvl-8">
-<p>承销发行</p>
-<p>承销发行是指债券发行人与承销商就债券的发行价格、承销方式等要素进行充分的协商后，再向投资者发行的方式</p>
-</li>
-<li class="lvl-8">
-<p>招标发行</p>
-<p>招标发行是指债券发行人先向各承销商进行招标，再由中标的承销商向投资者发行的方式</p>
-<ol>
-<li class="lvl-11">
-<p>数量招标。发行人明确将要发行债券的<u>发行数量、债券期限、票面利率或价格</u>等要素承销商再根据确定的利率或价格等要素投标自己愿意认购的数量。若发行利率高于(或发行价低于)投资者期望水平，则可能导致投标总量超过债券发行量，最终的成交数量按比例进行分配反之，则可能导致部分甚至全部流标</p>
-</li>
-<li class="lvl-11">
-<p>价格招标。价格招标是指先明确债券<u>发行的总量、债券期限和票面利</u>率等要素，承销再根据自己意愿的发行价格和相应数量进行投标。相比数量招标，价格招标通常可以避免出现标的现象，但发行人面临利息成本可能较高的风险</p>
-</li>
-<li class="lvl-11">
-<p>利差招标。此方式主要用于浮动利率债券的招标，是由发行人明确<u>债券发行数量、期限基准利率</u>确定方式等要素，承销商再对其浮动的利差和相应的数量进行投标，通过招标确定的利差加上基准利率成为债券的执行利率</p>
-</li>
-</ol>
-</li>
-</ul>
-</li>
-<li class="lvl-6">
-<p>流通市场</p>
-<ul class="lvl-4">
-<li class="lvl-8">
-<p>我国交易所债券市场，是在上海证券交易所和深圳证券交易所以非银行金融机构和个人为主体的<font color="cornflowerblue">场内债券市场</font></p>
-</li>
-<li class="lvl-8">
-<p><font color="cornflowerblue">我国债券场外市场是债券二级市场的主要形态</font>，分为银行间债券市场和银行柜台债券市场。银行间债券市场是指依托于中国外汇交易中心暨全国银行间同业拆借中心和中央国债登记结算公司、银行间市场清算所股份有限公司，商业银行、保险公司、证券公司等金融机构进行债券交易的市场。银行柜台债券市场是指银行通过营业网点(含电子银行系统) 与投资人进行债券买卖并办理托管与结算等业务的市场</p>
-</li>
-</ul>
-</li>
-</ol>
-</li>
-</ol>
 ]]></content>
       <categories>
         <category>金融类</category>
@@ -830,7 +891,7 @@
 </li>
 <li class="lvl-5">
 <p>利差公式：</p>
-<img src="/.io//01/08/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BA%A4%E6%98%93/image-20240111142517193.png" class title="image-20240111142517193">
+<img src="https://kriscaoj.github.io/2024/01/08/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BA%A4%E6%98%93/01/08/%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A1%8D%E7%94%9F%E5%B7%A5%E5%85%B7%E5%B8%82%E5%9C%BA%E4%B8%8E%E4%BA%A4%E6%98%93/image-20240111142517193.png" class title="image-20240111142517193">
 </li>
 <li class="lvl-5">
 <p>远期利率协议的价格是指从利息起算日开始的一定期限的协议利率。以8月29日为例</p>
